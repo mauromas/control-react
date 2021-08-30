@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/AddActivityButton.css";
+import "./AddActivityButton.css";
 
 function AddActivityButton() {
   return <button className="addActivity">+</button>;

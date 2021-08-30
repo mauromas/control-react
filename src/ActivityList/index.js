@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/activityList.css";
+import "./activityList.css";
 
 function ActivityList(props) {
   return (

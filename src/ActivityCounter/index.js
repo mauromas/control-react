@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/ActivityCounter.css";
+import "./ActivityCounter.css";
 
 function ActivityCounter({ completed, total }) {
   return (

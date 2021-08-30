@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/ActivitySearch.css";
+import "./ActivitySearch.css";
 
 function ActivitySearch({ search, setSearch }) {
   const onSearchValuesChange = (e) => {

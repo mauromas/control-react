@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/activityItem.css";
+import "./activityItem.css";
 
 function ActivityItem(props) {
   return (
