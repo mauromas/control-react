@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/control-react/static/css/main.f621bb06.chunk.css",
-    "main.js": "/control-react/static/js/main.d1c41e80.chunk.js",
-    "main.js.map": "/control-react/static/js/main.d1c41e80.chunk.js.map",
+    "main.css": "/control-react/static/css/main.7e631e62.chunk.css",
+    "main.js": "/control-react/static/js/main.ac1c78cb.chunk.js",
+    "main.js.map": "/control-react/static/js/main.ac1c78cb.chunk.js.map",
     "runtime-main.js": "/control-react/static/js/runtime-main.0894a293.js",
     "runtime-main.js.map": "/control-react/static/js/runtime-main.0894a293.js.map",
     "static/js/2.63f029bb.chunk.js": "/control-react/static/js/2.63f029bb.chunk.js",
     "static/js/2.63f029bb.chunk.js.map": "/control-react/static/js/2.63f029bb.chunk.js.map",
     "index.html": "/control-react/index.html",
-    "static/css/main.f621bb06.chunk.css.map": "/control-react/static/css/main.f621bb06.chunk.css.map",
+    "static/css/main.7e631e62.chunk.css.map": "/control-react/static/css/main.7e631e62.chunk.css.map",
     "static/js/2.63f029bb.chunk.js.LICENSE.txt": "/control-react/static/js/2.63f029bb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/control-react/static/media/cool-background.bf51d6bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0894a293.js",
     "static/js/2.63f029bb.chunk.js",
-    "static/css/main.f621bb06.chunk.css",
-    "static/js/main.d1c41e80.chunk.js"
+    "static/css/main.7e631e62.chunk.css",
+    "static/js/main.ac1c78cb.chunk.js"
   ]
 }
