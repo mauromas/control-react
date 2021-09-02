@@ -5,6 +5,7 @@ import { ActivityItem } from "../ActivityItem";
 import { ActivitySearch } from "../ActivitySearch";
 import { AddActivityButton } from "../AddActivityButton";
 import "./spinner.css";
+import "./center-text.css";
 import { ActivityContext } from "../ActivityContext";
 import { Modal } from "../Modal/";
 import { Form } from "../Form";
@@ -29,7 +30,9 @@ function AppUI() {
         {loading && <p className="spinner"></p>}
         {error && <p>Reacrgá la pagina, hubo un error...</p>}
         {!loading && !searchedActivity.length && (
-          <p>No se encontraron actividades, porque no creas una Actividad..</p>
+          <p className="center-text">
+            No se encontraron actividades, crea una Actividad..
+          </p>
         )}
         {searchedActivity.map((activity) => (
           <ActivityItem
