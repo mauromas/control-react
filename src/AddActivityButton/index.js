@@ -1,8 +1,16 @@
 import React from "react";
 import "./AddActivityButton.css";
 
-function AddActivityButton() {
-  return <button className="addActivity">+</button>;
+function AddActivityButton(props) {
+  const buttonOpen = () => {
+    props.setOpenModal((prevState) => !prevState);
+  };
+
+  return (
+    <button className="addActivity" onClick={buttonOpen}>
+      +
+    </button>
+  );
 }
 
 export { AddActivityButton };

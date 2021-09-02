@@ -11,7 +11,7 @@ function ActivityItem(props) {
           }`}
           onClick={props.onComplete}
         >
-          C
+          ✓
         </span>
         <p
           className={`activityItem-p ${

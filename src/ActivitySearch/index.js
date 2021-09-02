@@ -1,7 +1,9 @@
 import React from "react";
+import { ActivityContext } from "../ActivityContext";
 import "./ActivitySearch.css";
 
-function ActivitySearch({ search, setSearch }) {
+function ActivitySearch() {
+  const { search, setSearch } = React.useContext(ActivityContext);
   const onSearchValuesChange = (e) => {
     setSearch(e.target.value);
   };
