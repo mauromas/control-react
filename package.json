@@ -1,5 +1,5 @@
 {
-  "name": "intro-react",
+  "name": "control-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-"homepage": "https://github.com/mauromas/intro-react"
+"homepage": "https://github.com/mauromas/control-react"
 }
